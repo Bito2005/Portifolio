@@ -1,0 +1,33 @@
+[
+  {
+    "id": "FUN-20250701153328-734",
+    "nome": "Administrador do Sistema",
+    "cpf": "000.000.000-00",
+    "email": "admin@autofacil.com",
+    "telefone": "(00) 00000-0000",
+    "salario": 100000.0,
+    "usuario": "admin",
+    "senha": "admin",
+    "tipo": "ADMIN",
+    "dataAdmissao": "2025-07-01",
+    "dataCadastro": "2025-07-02",
+    "ultimoLogin": "2025-08-15T14:19:47.807",
+    "ativo": true
+  },
+  {
+    "id": "FUN-20250702154014-302",
+    "nome": "Jose",
+    "cpf": "66338930006",
+    "email": "jose@autofacil.com",
+    "telefone": "51981183400",
+    "endereco": "Auto Facil",
+    "salario": 3000.0,
+    "usuario": "jose",
+    "senha": "123456",
+    "tipo": "FUNCIONARIO",
+    "dataAdmissao": "2025-07-02",
+    "dataCadastro": "2025-07-02",
+    "ultimoLogin": "2025-07-03T11:02:51.078",
+    "ativo": true
+  }
+]
