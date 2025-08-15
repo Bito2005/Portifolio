@@ -35,17 +35,5 @@
     "dataCadastro": "2025-07-01",
     "ativo": true
   },
-  {
-    "id": "CLI-20250702151243-938",
-    "nome": "Gabriel",
-    "cpf": "029.810.880-17",
-    "email": "gkc@gmail.com",
-    "telefone": "(51) 99999-9991",
-    "cep": "95840-000",
-    "endereco": "Auto facil",
-    "senha": "gabriel",
-    "dataCadastro": "2025-07-02",
-    "ultimoLogin": "2025-07-07T19:02:39.107",
-    "ativo": true
-  }
+
 ]
